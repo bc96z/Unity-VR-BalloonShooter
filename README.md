@@ -1,10 +1,12 @@
 # Pico VR Balloon Shooter
 
 A VR shooting simulation game developed for the Pico VR platform, featuring interactive mechanics, a point system, and high-score tracking.
+![Gameplay Demo](./VRdemo.png)
 
 ## 🎥 Gameplay Demo
-*As the hardware is currently unavailable, the following recording demonstrates the core gameplay loop:*
+*Due to the current unavailability of the VR hardware, I am unable to perform a full live gameplay demonstration. The recording below showcases the core balloon-rising logic and movement simulation:*
 > **https://youtu.be/0G8nSEex32g**
+> > *Note: This footage captures the automatic balloon spawn and rise mechanics implemented in the project.*
 
 ## 🛠️ Project Overview
 This project is a VR shooting game developed in Unity. Players use the right controller to aim at and shoot balloons as they rise. The game includes a dynamic random spawn system, a scoring mechanism with a "Golden Balloon" bonus, and a high-score system that persists across sessions.
@@ -34,6 +36,6 @@ This project is a VR shooting game developed in Unity. Players use the right con
 | `StartManager.cs` | Initializes high-score UI and handles scene transitions[cite: 8]. |
 
 ## 🚀 Setup & Requirements
-* **Unity Version**: [Insert your Unity version here]
+* **Unity Version**: 2021.3.44f1
 * **Platform**: Pico VR SDK
 * **Input**: Right Controller Trigger (Shoot), Primary Button (Start Game)
