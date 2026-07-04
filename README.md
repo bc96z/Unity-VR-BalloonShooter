@@ -1,6 +1,7 @@
 # Pico VR Balloon Shooter
 
 A VR shooting simulation game developed for the Pico VR platform, featuring interactive mechanics, a point system, and high-score tracking.
+> **Note:** This repository contains the **core C# scripts** of the project to demonstrate the logic and implementation details. The full Unity project files (Assets, ProjectSettings, etc.) are not included in this repository.
 ![Gameplay Demo](./VRdemo.png)
 
 ## 🎥 Gameplay Demo
